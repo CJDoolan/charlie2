@@ -21,7 +21,7 @@ User Tutorial
 
 5. Run the back-end project:
    
-• Open another terminal and enter the back-end project directory: cd web_pro/backend
+• Open another terminal and enter the back-end project directory: cd bookworm/backend
 
 • Ensure that the dependencies required by app.py are installed. You can run: pip install -r requirements.txt (if there is a requirements.txt file).
 
